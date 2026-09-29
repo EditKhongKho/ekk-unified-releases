@@ -5,15 +5,15 @@
       <sparkle:version>22</sparkle:version><sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[EKK Unified 1.0.1 — bản cập nhật kiểm thử nội bộ (chỉ dùng để kiểm tra cập nhật).]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.1/EKK-Unified-1.0.1-22.zip" length="37317335" type="application/octet-stream" sparkle:edSignature="fOXC10zzoVlrDumbPDEb9sTDwSLKQRYAA4EdqJo3aI/Qyg795ctUNs8AQNh4ezDffTCARmbkHDMEHe7tOuwYCA=="/></item>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.1/EKK-Unified-1.0.1-22.zip" length="37398641" type="application/octet-stream" sparkle:edSignature="5cEFpui6+mkmHcTJMSERqRr15f+aPusBjoJq5hIZsOhr0hjSF8+i6orwneaxjd2nhs8RnIQAkEyDEyLt9WAwAQ=="/></item>
     <item><title>EKK Unified 1.0.0</title>
       <sparkle:version>21</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
       <description><![CDATA[EKK Unified 1.0.0 — bản phát hành đầu tiên: Công cụ, Thư viện âm thanh, Audio FX, Sao lưu & Khôi phục, Giấy phép, Cập nhật.]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.0/EKK-Unified-1.0.0-21.zip" length="37317335" type="application/octet-stream" sparkle:edSignature="+8wRyS7mGeECtVbxsXFN90nKu/f1IW20JDGXT4KI5dHtKuP0ZJLc2/r78+s+VAM9nXH9y9vObyEvmcsNxf8cAw=="/></item>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.0/EKK-Unified-1.0.0-21.zip" length="37398647" type="application/octet-stream" sparkle:edSignature="meok3XMbxR0NzwxLLit5B9wg6pDkCnZio89L1Wnq557f6MbltQnksXRgCqguDnu7R+QjMreMc2sjnUCXrCSSCA=="/></item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: jmhUOjnLdhKAPtuoQ+Fa/bEsPSITcN0nSzkMjFoXPpco7WN3eAE2m/msxJVgK6szxGpRMxM4B//B6R9e8CpODg==
+edSignature: XhmP04fHd6OtNa2/60tfnIpkLtZzlAY5Z/xVIpmMTYRcF9VQqGDXN2MTIc2/K4H8zn+iEHG3xcuArQqp2DoKBQ==
 length: 1571
 -->
