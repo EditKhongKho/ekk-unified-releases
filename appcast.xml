@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel><title>EKK Unified</title>
-    <item><title>EKK Unified 1.0.1</title>
-      <sparkle:version>22</sparkle:version><sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
-      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[EKK Unified 1.0.1 — bản cập nhật kiểm thử nội bộ (chỉ dùng để kiểm tra cập nhật).]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.1/EKK-Unified-1.0.1-22.zip" length="37398641" type="application/octet-stream" sparkle:edSignature="5cEFpui6+mkmHcTJMSERqRr15f+aPusBjoJq5hIZsOhr0hjSF8+i6orwneaxjd2nhs8RnIQAkEyDEyLt9WAwAQ=="/></item>
     <item><title>EKK Unified 1.0.0</title>
       <sparkle:version>21</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
@@ -14,6 +9,6 @@
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: XhmP04fHd6OtNa2/60tfnIpkLtZzlAY5Z/xVIpmMTYRcF9VQqGDXN2MTIc2/K4H8zn+iEHG3xcuArQqp2DoKBQ==
-length: 1571
+edSignature: TqdjEepctSceNDrtSkeI1j28+pWSi1H1VkWSSUB/zwc1uh+5gAvVtxdTIJr0bspbGLFc5t4/hEebnfskioieAw==
+length: 899
 -->
