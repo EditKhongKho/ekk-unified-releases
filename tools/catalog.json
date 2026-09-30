@@ -1,0 +1,78 @@
+{
+ "generated": "2026-09-30T17:12:24Z",
+ "schema": "ekk.tool-catalog/1",
+ "tools": [
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekh-anim-curve-1.1.8.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKH Anim Curve",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "b69cfef500c6c80756f2e405a8ad78dcfa74aa43b6bd3ca54e84b7c10ad71747",
+   "size": 9624,
+   "tool_id": "ekh-anim-curve",
+   "version": "1.1.8"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-auto-keyframe-stretcher-1.2.1.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Auto Keyframe Stretcher",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "ff6ad7a670d63da8b255a6f9c7e99900ce8a028ef7783142166a62923dddfc00",
+   "size": 13423,
+   "tool_id": "ekk-auto-keyframe-stretcher",
+   "version": "1.2.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-background-2.0.1.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Background",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "8a178675673cb9d983e09d6f2b02d803d6b913e59d74f1f1a6696a1be7979377",
+   "size": 24274,
+   "tool_id": "ekk-background",
+   "version": "2.0.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-merge-animation-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Merge Animation",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "f75d6997d361668fa978a558116729a15ab49e72a2ab56139e8d7deaa4634021",
+   "size": 5893,
+   "tool_id": "ekk-merge-animation",
+   "version": "1.0.0"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-stagger-1.2.1.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Stagger Clips",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "5ecde663b23a9f293bd680327e2e45ac271e986ab1ba0a89d658f731c9e390b7",
+   "size": 11179,
+   "tool_id": "ekk-stagger",
+   "version": "1.2.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-timeline-tools-3.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Timeline Tools",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "c51f568c8c26be32a3478a271da07c1f74681392e23242912dd66e0da3a4014a",
+   "size": 49899,
+   "tool_id": "ekk-timeline-tools",
+   "version": "3.0.0"
+  }
+ ]
+}
