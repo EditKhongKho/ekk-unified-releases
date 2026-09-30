@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel><title>EKK Unified</title>
-    <item><title>EKK Unified 1.0.0</title>
-      <sparkle:version>21</sparkle:version><sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+    <item><title>EKK Unified 1.1.0</title>
+      <sparkle:version>30</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[EKK Unified 1.0.0 — bản phát hành đầu tiên: Công cụ, Thư viện âm thanh, Audio FX, Sao lưu & Khôi phục, Giấy phép, Cập nhật.]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.0.0/EKK-Unified-1.0.0-21.zip" length="37398647" type="application/octet-stream" sparkle:edSignature="meok3XMbxR0NzwxLLit5B9wg6pDkCnZio89L1Wnq557f6MbltQnksXRgCqguDnu7R+QjMreMc2sjnUCXrCSSCA=="/></item>
+      <description><![CDATA[EKK Unified 1.1.0 — Kho công cụ theo giấy phép (cập nhật từng công cụ riêng), Audio FX hàng loạt ổn định hơn, nút Dừng âm thanh tức thì, Quick Add tự chọn track trống, mở EKK trên Resolve toàn màn hình.]]></description>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.0/EKK-Unified-1.1.0-30.zip" length="37590971" type="application/octet-stream" sparkle:edSignature="17QIuD1vuEGRw/f6dwGYNoySRrIEeVfTT9CAc2maky6PuRzKWQKLS5BZYZpR/n7bQKfNN272zMgkNogT14ozBQ=="/></item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: TqdjEepctSceNDrtSkeI1j28+pWSi1H1VkWSSUB/zwc1uh+5gAvVtxdTIJr0bspbGLFc5t4/hEebnfskioieAw==
-length: 899
+edSignature: 2gLam91kvaHLaGCJ+nimtq736FOSEieIrDTIFYI25dkVCFS6HkLDrs1UXaNynFmPrdwgfRqKqmDwgy2/07fPBg==
+length: 996
 -->
