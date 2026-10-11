@@ -1,5 +1,5 @@
 {
- "generated": "2026-09-30T17:12:24Z",
+ "generated": "2026-10-11T13:26:29Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -61,6 +61,26 @@
    "size": 11179,
    "tool_id": "ekk-stagger",
    "version": "1.2.1"
+  },
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "Hiệu ứng viền phát sáng theo texture (gói DRFX gốc, giữ nguyên icon trong gói).",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-texture-edge-glow-1.0.1.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK Texture Edge Glow",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "763343e99049a088d4dc9fb14ba205f1039771afdf3632253adceef0b308241b",
+   "size": 325204,
+   "thumbnail": {
+    "sha256": "8d6a5d3afeb8112ce2d9667f838c54d5bff7f7509efc4f5ab68c4323f42bcf74",
+    "size": 248489,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-texture-edge-glow-1.0.1.jpg"
+   },
+   "tool_id": "ekk-texture-edge-glow",
+   "version": "1.0.1"
   },
   {
    "channel": "stable",
