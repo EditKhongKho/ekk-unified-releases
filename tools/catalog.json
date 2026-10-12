@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-11T13:26:29Z",
+ "generated": "2026-10-12T01:57:31Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -37,6 +37,18 @@
    "size": 24274,
    "tool_id": "ekk-background",
    "version": "2.0.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-carousel-builder-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Carousel Builder",
+   "platform": "macos",
+   "resolve_compatibility": "21.1+",
+   "sha256": "48588eb38d4cef49db3d241b718bab9ef634fc161f31200a3a6f8bd17725edc5",
+   "size": 93119,
+   "tool_id": "ekk-carousel-builder",
+   "version": "1.0.0"
   },
   {
    "channel": "stable",
