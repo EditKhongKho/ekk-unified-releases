@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T13:58:46Z",
+ "generated": "2026-11-09T17:31:44Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -51,6 +51,18 @@
    "version": "1.1.0"
   },
   {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-grid-reveal-1.1.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Grid Reveal",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "6d08572c414069b5c669202f8210121feb3e3c4ed078ea3cf26c8f7d2a283be6",
+   "size": 6734,
+   "tool_id": "ekk-grid-reveal",
+   "version": "1.1.0"
+  },
+  {
    "category": "Edit",
    "channel": "stable",
    "description": "EKK ColorShift Reveal: mép năng lượng quét qua clip và đổi màu. Kèm 4 chuyển cảnh EKK Fire, Digital, Squares, Energy. Cần cài thêm thẻ “EKK Line Sáng – Lõi”. Resolve Studio 21.1+.",
@@ -92,6 +104,18 @@
   },
   {
    "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-magic-mask-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Magic Mask",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "6c86e27bce9669dbd6f83f388c6779041eb9892be1a956a982f4ee053598943b",
+   "size": 4938,
+   "tool_id": "ekk-magic-mask",
+   "version": "1.0.0"
+  },
+  {
+   "channel": "stable",
    "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-merge-animation-1.0.1.zip",
    "install_contract": "ekk.package/1",
    "name": "EKK Merge Animation",
@@ -113,6 +137,18 @@
    "size": 11179,
    "tool_id": "ekk-stagger",
    "version": "1.2.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-bounce-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Text Bounce",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "68af59b45b0450faab2cc8eab2fcfe62d809d9aa7109a79c0d83e3c99e4cfb4d",
+   "size": 41620,
+   "tool_id": "ekk-text-bounce",
+   "version": "1.0.0"
   },
   {
    "category": "Edit",
