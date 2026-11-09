@@ -1,5 +1,5 @@
 {
- "generated": "2026-10-13T14:59:26Z",
+ "generated": "2026-11-09T12:21:05Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -49,6 +49,18 @@
    "size": 319680,
    "tool_id": "ekk-carousel-builder",
    "version": "1.0.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.4.2.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Line Sáng – Lõi",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "3e580919abae17e0a4ba0ef961b0ce170097d6c62ef2fc3162329c2c043e5391",
+   "size": 911431,
+   "tool_id": "ekk-line-sang-core",
+   "version": "2.4.2"
   },
   {
    "channel": "stable",
