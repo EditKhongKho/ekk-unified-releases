@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:42:29Z",
+ "generated": "2026-11-14T15:45:20Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -117,6 +117,18 @@
    "size": 6789,
    "tool_id": "ekk-merge-animation",
    "version": "1.0.1"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-page-curl-1.7.1.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Page Curl",
+   "platform": "macos",
+   "resolve_compatibility": "19+",
+   "sha256": "f75f923880857cc075278de8ca01d07e450ebff8dc9c0b656eaddb67964ec3d0",
+   "size": 120779,
+   "tool_id": "ekk-page-curl",
+   "version": "1.7.1"
   },
   {
    "channel": "stable",
