@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:45:20Z",
+ "generated": "2026-11-14T15:52:11Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -61,6 +61,18 @@
    "size": 6734,
    "tool_id": "ekk-grid-reveal",
    "version": "1.1.0"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-hero-text-pack-2.3.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Hero Text Pack",
+   "platform": "macos",
+   "resolve_compatibility": "21.1+",
+   "sha256": "83bbc3090ac5c0b8f98a36f41d617f36d5ffa6fd89f88094e1225eb80b632cde",
+   "size": 244397,
+   "tool_id": "ekk-hero-text-pack",
+   "version": "2.3.0"
   },
   {
    "category": "Edit",
