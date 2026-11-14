@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:26:41Z",
+ "generated": "2026-11-14T15:42:29Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -140,6 +140,18 @@
    "sha256": "68af59b45b0450faab2cc8eab2fcfe62d809d9aa7109a79c0d83e3c99e4cfb4d",
    "size": 41620,
    "tool_id": "ekk-text-bounce",
+   "version": "1.0.0"
+  },
+  {
+   "channel": "stable",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-line-sang-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "name": "EKK Text Line Sáng",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "6b912aca7ee170936ca43e6bd84bd676c94099308fc2eb13ad065b8d61c74715",
+   "size": 661917,
+   "tool_id": "ekk-text-line-sang",
    "version": "1.0.0"
   },
   {
