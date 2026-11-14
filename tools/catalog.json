@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-09T17:31:44Z",
+ "generated": "2026-11-14T15:26:41Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -83,24 +83,16 @@
    "version": "2.4.3"
   },
   {
-   "category": "Fusion",
    "channel": "stable",
-   "description": "Lõi của EKK Line Sáng: node ánh sáng neon / kiếm ánh sáng trên trang Fusion (Two Points, Ring, Shape, Nét vẽ thon, Wipe, Mask). GPU Metal. Bắt buộc cho thẻ “EKK Line Sáng”. Resolve Studio 21.1+.",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.4.3.zip",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.5.0.zip",
    "install_contract": "ekk.package/1",
-   "kind": "fuse",
    "name": "EKK Line Sáng – Lõi",
    "platform": "macos",
    "resolve_compatibility": "19+",
-   "sha256": "ecb823635e0e5f62c91d4d3fef94057c8a5f2b696675f7e51cef5606166ba13b",
-   "size": 911727,
-   "thumbnail": {
-    "sha256": "146d0712bbcc22765d861784d022b9b7a765eb3b8f6f983be824c22d6542bd8f",
-    "size": 121819,
-    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.4.2.jpg"
-   },
+   "sha256": "8a33d3f7b00c0bd77880bdd7c7a14a3e7009be5b760bb8971e0310a639db1e89",
+   "size": 912690,
    "tool_id": "ekk-line-sang-core",
-   "version": "2.4.3"
+   "version": "2.5.0"
   },
   {
    "channel": "stable",
