@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T15:52:11Z",
+ "generated": "2026-11-14T16:55:25Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -96,15 +96,15 @@
   },
   {
    "channel": "stable",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.5.0.zip",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-sang-core-2.5.2.zip",
    "install_contract": "ekk.package/1",
    "name": "EKK Line Sáng – Lõi",
    "platform": "macos",
    "resolve_compatibility": "19+",
-   "sha256": "8a33d3f7b00c0bd77880bdd7c7a14a3e7009be5b760bb8971e0310a639db1e89",
-   "size": 912690,
+   "sha256": "5dda4127b3bc7f7b812758b7daf42cb4c40f5af879ec0cb1a0045af9b6921a7f",
+   "size": 912883,
    "tool_id": "ekk-line-sang-core",
-   "version": "2.5.0"
+   "version": "2.5.2"
   },
   {
    "channel": "stable",
