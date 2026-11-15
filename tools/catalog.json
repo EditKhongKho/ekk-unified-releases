@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-14T16:55:25Z",
+ "generated": "2026-11-15T07:42:10Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -37,6 +37,26 @@
    "size": 24274,
    "tool_id": "ekk-background",
    "version": "2.0.1"
+  },
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "EKK Beam Card Reveal: nền thu nhỏ, vệt sáng đỏ bay lên kèm hạt, chớp + vòng sóng đỏ, cụm thẻ bay vào (ảnh, 3 dòng chữ, nhãn, badge). 6 kiểu xuất hiện, đổi màu, cỡ từng thẻ. Đã tối ưu nhẹ máy. Resolve Studio 21.1+, timeline 9:16.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-beam-card-reveal-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK Beam Card Reveal",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "8247240b1a43ba91e3172729b799e793c03e63cc3f666fc2dca5b3140b7669dc",
+   "size": 394518,
+   "thumbnail": {
+    "sha256": "7837cb587021b7bf4a5b65ef462ef9b452eeb88fa99cf5997d4a7f583fde36fd",
+    "size": 125214,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-beam-card-reveal-1.0.0.jpg"
+   },
+   "tool_id": "ekk-beam-card-reveal",
+   "version": "1.0.0"
   },
   {
    "channel": "stable",
