@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel><title>EKK Unified</title>
-    <item><title>EKK Unified 1.1.0</title>
-      <sparkle:version>204</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+    <item><title>EKK Unified 1.1.1</title>
+      <sparkle:version>205</sparkle:version><sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[EKK Unified 1.1.0 (204) — Sửa lỗi trang Âm thanh: chọn danh mục có dấu (vd "đồng hồ", "Động vật", "Sound effects đa năng") hoặc tìm từ có dấu không ra âm thanh. Có sẵn EKK Beam Card Reveal trong ứng dụng.]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.0/EKK-Unified-1.1.0-204.zip" length="43217621" type="application/octet-stream" sparkle:edSignature="N/oGYIxQCl82alzOj0eLdJHv681sKv7imSxePiJgEbQh4MwFdT70dRIT6ewlTx14iCRei5lRHMAJnmbISPatBg=="/></item>
+      <description><![CDATA[EKK Unified 1.1.1 — Sửa gốc lỗi chữ có dấu tiếng Việt khi ứng dụng xử lý tìm kiếm, danh mục âm thanh, tên thư mục và tên timeline. Từ bản này mỗi lần cập nhật sẽ tăng số phiên bản để bạn dễ theo dõi.]]></description>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.1/EKK-Unified-1.1.1-205.zip" length="43214026" type="application/octet-stream" sparkle:edSignature="kYsQgFmaUWs6Qc+p0sf3Z70G3QvGnmclEcuCgFEcRpGpxvb4gM0UgDj41BJk5ETHIm0ndODa3lj0F98OeLH4Bg=="/></item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: vsy5csaAQCRiqVbsCH4MMBCBjMK0KrtyqxdkLT05B8jpDpq2+ZTy9bepDJrVVje2Zwomxp23b6++3Pp5OPwPAQ==
-length: 997
+edSignature: dJ8LgWa+HZv7jcqU1sOUrUdKpGeZFAflsePkVSkgiIJe1r7zbjMh8fJrVXX/HOxcAW3btsMcFJpQRu+i2oUWDg==
+length: 1014
 -->
