@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel><title>EKK Unified</title>
     <item><title>EKK Unified 1.1.0</title>
-      <sparkle:version>203</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+      <sparkle:version>204</sparkle:version><sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[EKK Unified 1.1.0 (203) — Thêm 8 công cụ: EKK Shatter 1.3 (+ Lõi), EKK Line Sáng (+ Lõi 2.5.2: Path Style Thẳng/Mượt/Tròn), EKK Puppet Lite, EKK Page Curl, EKK Hero Text Pack, EKK Text Line Sáng — tổng 21 công cụ, đủ ảnh thẻ. Sửa lỗi giấy phép bị mất (STORE_UNAVAILABLE) khi chép ứng dụng trên macOS 27.]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.0/EKK-Unified-1.1.0-203.zip" length="42753985" type="application/octet-stream" sparkle:edSignature="5ZmXiZ9dQEfdtJnSFFt9XyzzoASjwIN7cKMCwYr1kENZlECCCF3/KAvXvyHgHBLufaAhlx/UttTuS0Zn0dgyDQ=="/></item>
+      <description><![CDATA[EKK Unified 1.1.0 (204) — Sửa lỗi trang Âm thanh: chọn danh mục có dấu (vd "đồng hồ", "Động vật", "Sound effects đa năng") hoặc tìm từ có dấu không ra âm thanh. Có sẵn EKK Beam Card Reveal trong ứng dụng.]]></description>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.0/EKK-Unified-1.1.0-204.zip" length="43217621" type="application/octet-stream" sparkle:edSignature="N/oGYIxQCl82alzOj0eLdJHv681sKv7imSxePiJgEbQh4MwFdT70dRIT6ewlTx14iCRei5lRHMAJnmbISPatBg=="/></item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: GtuCel4JyZeSL2+m4RF94fclqaTg2MOhjgzkhijnYVsGcaWr20W0wTWfjIc3BeSp2V+TBk+ZTksP0gQTvXB5Cw==
-length: 1100
+edSignature: vsy5csaAQCRiqVbsCH4MMBCBjMK0KrtyqxdkLT05B8jpDpq2+ZTy9bepDJrVVje2Zwomxp23b6++3Pp5OPwPAQ==
+length: 997
 -->
