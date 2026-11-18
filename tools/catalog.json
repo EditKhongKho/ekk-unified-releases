@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:06:24Z",
+ "generated": "2026-11-18T03:08:19Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -192,7 +192,7 @@
    "install_contract": "ekk.package/1",
    "name": "EKK Text Line Sáng",
    "platform": "macos",
-   "resolve_compatibility": "19+",
+   "resolve_compatibility": "21+",
    "sha256": "8fba054814a75853bcc3d0088a1ff12fae56c5a03cedcb605756f60b2447022c",
    "size": 1150527,
    "tool_id": "ekk-text-line-sang",
