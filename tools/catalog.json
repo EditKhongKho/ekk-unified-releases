@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:02:17Z",
+ "generated": "2026-11-18T03:03:12Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -84,15 +84,15 @@
   },
   {
    "channel": "stable",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-hero-text-pack-2.3.0.zip",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-hero-text-pack-2.4.0.zip",
    "install_contract": "ekk.package/1",
    "name": "EKK Hero Text Pack",
    "platform": "macos",
    "resolve_compatibility": "21.1+",
-   "sha256": "83bbc3090ac5c0b8f98a36f41d617f36d5ffa6fd89f88094e1225eb80b632cde",
-   "size": 244397,
+   "sha256": "31e2bd44775f35f49518efba15ddbd750fa5594bb0bc0981e8f8823544c369c0",
+   "size": 330555,
    "tool_id": "ekk-hero-text-pack",
-   "version": "2.3.0"
+   "version": "2.4.0"
   },
   {
    "category": "Edit",
@@ -188,15 +188,15 @@
   },
   {
    "channel": "stable",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-line-sang-1.1.0.zip",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-line-sang-1.0.0.zip",
    "install_contract": "ekk.package/1",
    "name": "EKK Text Line Sáng",
    "platform": "macos",
-   "resolve_compatibility": "19+",
-   "sha256": "8fba054814a75853bcc3d0088a1ff12fae56c5a03cedcb605756f60b2447022c",
-   "size": 1150527,
+   "resolve_compatibility": "21+",
+   "sha256": "6b912aca7ee170936ca43e6bd84bd676c94099308fc2eb13ad065b8d61c74715",
+   "size": 661917,
    "tool_id": "ekk-text-line-sang",
-   "version": "1.1.0"
+   "version": "1.0.0"
   },
   {
    "category": "Edit",
