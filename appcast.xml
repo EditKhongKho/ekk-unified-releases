@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
   <channel><title>EKK Unified</title>
-    <item><title>EKK Unified 1.1.1</title>
-      <sparkle:version>205</sparkle:version><sparkle:shortVersionString>1.1.1</sparkle:shortVersionString>
+    <item><title>EKK Unified 1.1.2</title>
+      <sparkle:version>206</sparkle:version><sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[EKK Unified 1.1.1 — Sửa gốc lỗi chữ có dấu tiếng Việt khi ứng dụng xử lý tìm kiếm, danh mục âm thanh, tên thư mục và tên timeline. Từ bản này mỗi lần cập nhật sẽ tăng số phiên bản để bạn dễ theo dõi.]]></description>
-      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.1/EKK-Unified-1.1.1-205.zip" length="43214026" type="application/octet-stream" sparkle:edSignature="kYsQgFmaUWs6Qc+p0sf3Z70G3QvGnmclEcuCgFEcRpGpxvb4gM0UgDj41BJk5ETHIm0ndODa3lj0F98OeLH4Bg=="/></item>
+      <description><![CDATA[EKK Unified 1.1.2 — EKK Hero Text Pack 2.4.0: thêm title EKK Hero Combo Ngang (16:9). Khi ứng dụng không tự cập nhật được vì đang chạy từ file DMG hoặc từ vị trí tạm của macOS, Cài đặt › Cập nhật giờ hướng dẫn rõ cách khắc phục thay vì chỉ báo mã lỗi.]]></description>
+      <enclosure url="https://github.com/EditKhongKho/ekk-unified-releases/releases/download/v1.1.2/EKK-Unified-1.1.2-206.zip" length="43300808" type="application/octet-stream" sparkle:edSignature="KunKPprVemtbeS5VGFavM2Ksk/zvb47brqs9YaHWTo+u0T8sI+BI0WTNfW2hrzUZBHcHrX+aN6kgguaANsyfBA=="/></item>
   </channel>
 </rss>
 <!-- sparkle-signatures:
-edSignature: dJ8LgWa+HZv7jcqU1sOUrUdKpGeZFAflsePkVSkgiIJe1r7zbjMh8fJrVXX/HOxcAW3btsMcFJpQRu+i2oUWDg==
-length: 1014
+edSignature: F1S7E+70rvczyqyWKuvGIkZ5gOvR84e2rQ8dmXBkSu8myg+dqxj1zJFxtGmvi+si2vwMiy4V58Mh5G8cd9VqBw==
+length: 1066
 -->
