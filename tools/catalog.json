@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-18T03:08:19Z",
+ "generated": "2026-11-20T17:03:41Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -197,6 +197,26 @@
    "size": 1150527,
    "tool_id": "ekk-text-line-sang",
    "version": "1.1.0"
+  },
+  {
+   "category": "Effects + Titles / Edit Page",
+   "channel": "stable",
+   "description": "7 mẫu chữ động kính lỏng, 14 template dọc 9:16 + ngang 16:9: Glass Card, Lens Swap, Viral Title, Pop, Light Burst, Glass Blinds, Glass Orbs. Chỉnh chữ, màu, font, kính lỏng trong Inspector. Có Chế độ nhẹ và Chữ sau người. Resolve 21+.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK Text Pack",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "1882b24f2f60f8f052eddb9be0d1c30fe89217f202023440c887b9422d43dacf",
+   "size": 1205917,
+   "thumbnail": {
+    "sha256": "88189433feb5876aba04f20c9326ca8ba99b9bcd0882f7321a749927b58896ea",
+    "size": 83982,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.0.0.jpg"
+   },
+   "tool_id": "ekk-text-pack",
+   "version": "1.0.0"
   },
   {
    "category": "Edit",
