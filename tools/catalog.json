@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T17:03:41Z",
+ "generated": "2026-11-20T17:14:58Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -173,6 +173,26 @@
    "size": 11179,
    "tool_id": "ekk-stagger",
    "version": "1.2.1"
+  },
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "EKK Subject FX: 15 mẫu kéo thả trang Edit. 5 chuyển cảnh + 5 hiệu ứng tan thành chấm halftone / ô pixel, và 5 vệt sáng quét (Pixel Scan, Tile Reveal, Light Line, Glitch Scan, Duo Tile Wave) Hiện vào / Biến mất / Quét qua. Chọn Toàn khung hoặc Vùng hình ảnh. Mọi tỉ lệ khung. Resolve Studio 21.1+.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-subject-fx-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK Subject FX",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "52b05f39d49ede4f636070b28812b8c8f73ee91dc8f80792c8f32882971081e1",
+   "size": 2470354,
+   "thumbnail": {
+    "sha256": "d3164af95259537ff68d5c7208684336587470bed99277a702e95e9b3e3c526d",
+    "size": 166677,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-subject-fx-1.0.0.jpg"
+   },
+   "tool_id": "ekk-subject-fx",
+   "version": "1.0.0"
   },
   {
    "channel": "stable",
