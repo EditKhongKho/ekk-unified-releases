@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-20T19:06:40Z",
+ "generated": "2026-11-23T18:50:25Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -221,22 +221,22 @@
   {
    "category": "Effects + Titles / Edit Page",
    "channel": "stable",
-   "description": "11 mẫu chữ động, 22 template dọc 9:16 + ngang 16:9: Glass Card, Lens Swap, Viral Title + 4 biến thể Orbit/Frame/Scan/Pulse (line sáng chạy mãi), Pop, Light Burst, Glass Blinds, Glass Orbs. Chỉnh chữ, màu, font, kính lỏng trong Inspector. Có Chế độ nhẹ, Chữ sau người. Resolve 21+.",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.1.0.zip",
+   "description": "11 mẫu chữ động, 22 template dọc 9:16 + ngang 16:9: Glass Card, Lens Swap, Viral Title + 4 biến thể Orbit/Frame/Scan/Pulse (nền trong suốt, có ô Nền tối), Pop, Light Burst, Glass Blinds, Glass Orbs. Chỉnh chữ, màu, font, kính lỏng trong Inspector. Có Chế độ nhẹ. Resolve 21+.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.1.1.zip",
    "install_contract": "ekk.package/1",
    "kind": "drfx",
    "name": "EKK Text Pack",
    "platform": "macos",
    "resolve_compatibility": "21+",
-   "sha256": "6c332afccfe9f8c4564d93f33f176852e6ca819c36d3e93d6a6e3b36cf7d63b1",
-   "size": 1553294,
+   "sha256": "8f038be9ab1b46fdabf5585eac707c6f840331245f6a056c71e6410311f0d421",
+   "size": 1554922,
    "thumbnail": {
     "sha256": "e3ecb8ea93b1d2a46157d20a0d777595121c3fe8f6fdb9ac87bc998af9c47606",
     "size": 104869,
-    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.1.0.jpg"
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-text-pack-1.1.1.jpg"
    },
    "tool_id": "ekk-text-pack",
-   "version": "1.1.0"
+   "version": "1.1.1"
   },
   {
    "category": "Edit",
