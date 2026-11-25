@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-24T20:30:22Z",
+ "generated": "2026-11-25T03:04:02Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -98,21 +98,21 @@
    "category": "Edit",
    "channel": "stable",
    "description": "Chữ 3 lớp (chữ chính + 2 chữ phụ), 2 line sáng bay vào chạm chữ: rung khung, tách màu RGB, vỡ chữ. 8 mẫu: Gốc, Rơi đập + sóng, Glitch cắt lát, Ghép 2 nửa, Line 1 / Line 2 / Chữ chính 1 cú, Cả 3 lần. Chỉnh chữ, font, màu, line, glow, hạt sáng, thời điểm chạm trong Inspector.",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-rung-text-1.0.0.zip",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-rung-text-1.0.1.zip",
    "install_contract": "ekk.package/1",
    "kind": "drfx",
    "name": "EKK Line Rung Text",
    "platform": "macos",
    "resolve_compatibility": "21+",
-   "sha256": "ef9dac6dafd03038969611050c7b5d5136e53d0b7c69fe8ce1fb5bae7f649aa8",
-   "size": 275820,
+   "sha256": "bf33a934d342b34e8b593dbce9a8214868e2814bfd2ee5aac86f7a65424cf4ff",
+   "size": 276073,
    "thumbnail": {
     "sha256": "3cd2e711dfafdda489f4f7a154a93fba1ff14c0c595bf7829fd3e19bc7238850",
     "size": 38741,
     "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-line-rung-text-1.0.0.jpg"
    },
    "tool_id": "ekk-line-rung-text",
-   "version": "1.0.0"
+   "version": "1.0.1"
   },
   {
    "category": "Edit",
@@ -185,22 +185,22 @@
   {
    "category": "Edit",
    "channel": "stable",
-   "description": "EKK Rung Flash 1.0.1: kéo lên clip sau điểm cắt — chớp sáng + nhoè ngang + nhún hình. 5 kiểu nhún: Gốc, Bong bóng, Bong bóng 3D, Giật (không flash), Flash + rung 1 cú. Tự khớp 24–60fps. Resolve Studio 21.1+.",
-   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-rung-flash-1.0.1.zip",
+   "description": "EKK Rung Flash 1.0.2: kéo lên clip sau điểm cắt — chớp sáng + nhoè ngang + nhún hình. 5 kiểu nhún: Gốc, Bong bóng, Bong bóng 3D, Giật (không flash), Flash + rung 1 cú. Tự khớp 24–60fps. Resolve Studio 21.1+. Nút Website / YouTube trên cùng.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-rung-flash-1.0.2.zip",
    "install_contract": "ekk.package/1",
    "kind": "drfx",
    "name": "EKK Rung Flash",
    "platform": "macos",
    "resolve_compatibility": "21+",
-   "sha256": "cd4623e3ed8a480a6d2225b632d92d60f6c7ccbbf5be8522ed6e46c7f18476f4",
-   "size": 91403,
+   "sha256": "8a70b81bf63a456e184ea545d503c08a56b65131272ae85ce1025be459f3f27e",
+   "size": 91658,
    "thumbnail": {
     "sha256": "763892cf617317021c5ef99ad54db6ad2bafbd7c4761a78919877dfc3a2bbc76",
     "size": 24552,
     "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-rung-flash-1.0.0.jpg"
    },
    "tool_id": "ekk-rung-flash",
-   "version": "1.0.1"
+   "version": "1.0.2"
   },
   {
    "channel": "stable",
