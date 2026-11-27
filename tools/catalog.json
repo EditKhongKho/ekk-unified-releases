@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T03:04:02Z",
+ "generated": "2026-11-27T10:05:56Z",
  "schema": "ekk.tool-catalog/1",
  "tools": [
   {
@@ -59,6 +59,26 @@
    "version": "1.1.0"
   },
   {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "Hình thu vào card bo góc, chữ đi theo card (tên kênh, caption, chữ trên line), avatar tròn lấy từ clip. 3 effect: Nảy vào thu line, Trượt vào bung ra, Pop trượt ra; mỗi effect 5 kiểu chuyển động. Tự nhận dọc/ngang, ra hết khung đúng cuối clip. Cần font Poppins + Be Vietnam Pro.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-card-motion-1.0.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK Card Motion",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "2b049a94d8f8fbd531ce5d5e62e9e4b37e3f60a2f90dc47c000d17d4decb47f9",
+   "size": 580475,
+   "thumbnail": {
+    "sha256": "d8772825001a2a5a3d35d51a4dd0ffb7c4946986832a4304effc31cde1dfb3b7",
+    "size": 61853,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-card-motion-1.0.0.jpg"
+   },
+   "tool_id": "ekk-card-motion",
+   "version": "1.0.0"
+  },
+  {
    "channel": "stable",
    "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-carousel-builder-1.1.0.zip",
    "install_contract": "ekk.package/1",
@@ -69,6 +89,26 @@
    "size": 135973,
    "tool_id": "ekk-carousel-builder",
    "version": "1.1.0"
+  },
+  {
+   "category": "Edit",
+   "channel": "stable",
+   "description": "4 effect khung ảnh + chữ cho video nói chuyện: Grid Reveal, Card Slide, Card Rise, Card Leak. Khung vào nhanh chậm dần, Flash chớp khi dừng, chữ trượt ra từ sau ảnh, cuối clip trượt ra có motion blur. Bản dọc 9:16 + ngang 16:9, tự khớp độ dài clip và fps. Resolve Studio 21.1+.",
+   "download_url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-fx4-1.4.0.zip",
+   "install_contract": "ekk.package/1",
+   "kind": "drfx",
+   "name": "EKK FX4",
+   "platform": "macos",
+   "resolve_compatibility": "21+",
+   "sha256": "74fb7ed224f1154014911245351fbcb9c01249f3671bb3427086607715f84597",
+   "size": 449099,
+   "thumbnail": {
+    "sha256": "2c520e4d107642d161df1a1a28c364760d7377a8a138bf2d4d46fc9153130c01",
+    "size": 80014,
+    "url": "https://github.com/EditKhongKho/ekk-unified-releases/releases/download/tools/ekk-fx4-1.4.0.jpg"
+   },
+   "tool_id": "ekk-fx4",
+   "version": "1.4.0"
   },
   {
    "channel": "stable",
